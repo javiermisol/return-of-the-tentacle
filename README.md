@@ -7,6 +7,8 @@ Caza los Tentacles megalomaníacos, tiene conversaciones extrañas y resuelve lo
 
 Controla a los personajes como en la vieja era del juego de aventuras 2D con tu ratón. Una interfaz moderna espera. Aparte de caras conocidas del juego original, también encontrarás apariciones de invitados de personajes que pertenecen a otros juegos.
 
-** Instalador para windows. **  
+*Instalador para windows.  
 
-** Paquete deb para debian/ubuntu/linuxmint/derivados **
+*Paquete deb para debian/ubuntu/linuxmint/derivados.
+
+*Proyecto origuna en la web https://catmic.itch.io/return-of-the-tentacle
